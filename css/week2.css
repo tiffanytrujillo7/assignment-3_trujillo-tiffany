@@ -1,9 +1,12 @@
+/*
 body {
   font-family: 'Nunito', sans-serif;
   background-color: #58ACFA;
   padding: 2%;
 }
+*/
 
+/*
 .container {
   padding: 15px;
 }
@@ -73,7 +76,9 @@ aside ul {
 .aside__weather {
   background-color: #FEF9E7;
 }
+*/
 
+/*
 h1 {
   font-size: 3rem;
   font-family: 'Leckerli One', cursive;
@@ -92,7 +97,9 @@ h3 {
 p {
   font-family: 'Open Sans', sans-serif;
 }
+*/
 
+/*
 img {
   width: 50%;
   padding-bottom: 5%;
@@ -101,7 +108,9 @@ img {
 ul li {
   font-family: 'Open Sans', sans-serif;
 }
+*/
 
+/*
 footer {
   clear: both;
   width: 94%;
@@ -111,6 +120,7 @@ footer {
   padding: 3%;
   text-align: center;
 }
+*/
 
 /* Media Quieries*/
 
