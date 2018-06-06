@@ -1,0 +1,98 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background-color: $primary-color;
+  padding: 2%;
+}
+
+.container {
+  padding: 15px;
+}
+
+.container {
+  padding: 15px;
+}
+
+header {
+  width: 100%;
+  background-color: white;
+}
+
+.header__logo {
+  width: 30%;
+}
+
+.navigation {
+  width: 100%;
+}
+
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: auto;
+    color: black;
+}
+
+nav li {
+  float: right;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center;
+}
+
+nav li a {
+    display: block;
+    color: $primary-color;
+    text-align: center;
+    padding: 14px 10px;
+    text-decoration: none;
+}
+
+nav li a:hover {
+    background-color: $primary-color;
+    color: white;
+}
+
+ul li {
+  font-family: 'Open Sans', sans-serif;
+}
+
+img {
+  width: 50%;
+  padding-bottom: 5%;
+}
+
+section {
+  width: 100%;
+  margin: auto;
+  background-color: white;
+  text-align: center;
+}
+
+aside {
+  width: 100%;
+  float: left;
+  margin: auto;
+  text-align: center;
+  height: 30vh;
+}
+
+aside ul {
+  list-style-type: none;
+}
+
+.aside__features {
+  background-color: #EBF5FB;
+}
+
+.aside__weather {
+  background-color: #FEF9E7;
+}
+
+footer {
+  clear: both;
+  width: 94%;
+  background-color: white;
+  font-family: 'Open Sans', sans-serif;
+  color: #7FB8EB;
+  padding: 3%;
+  text-align: center;
+}
